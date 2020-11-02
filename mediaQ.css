@@ -1,0 +1,21 @@
+@media screen and (max-width: 868px){
+  #redirectContainer{
+    width: 55%;
+  }
+}
+@media screen and (max-width: 670px){
+  .margin-left-10{
+    font-size: 12px;
+  }
+  #footerSpanContainer{
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 335px){
+  #redirectContainer{
+    font-size: 12px;
+  }
+  .margin-left-10{
+    font-size: 11px;
+  }
+}
